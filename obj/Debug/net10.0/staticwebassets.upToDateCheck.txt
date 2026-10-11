@@ -1,0 +1,6 @@
+wwwroot\index.html
+wwwroot\css\site.css
+wwwroot\js\site.js
+C:\Users\szilc\source\repos\TodoApi\wwwroot\index.html
+C:\Users\szilc\source\repos\TodoApi\wwwroot\css\site.css
+C:\Users\szilc\source\repos\TodoApi\wwwroot\js\site.js
